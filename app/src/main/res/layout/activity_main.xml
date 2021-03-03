@@ -52,6 +52,7 @@
         android:layout_height="55dp"
         android:layout_marginTop="30dp"
         android:background="@drawable/botao_redondo_home"
+        android:onClick="butaoLoginPagina"
         android:text="@string/mapa"
         android:textSize="17sp"
         app:layout_constraintEnd_toEndOf="parent"
